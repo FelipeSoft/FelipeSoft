@@ -1,15 +1,10 @@
-# Olá, meu nome é Felipe! 👋
+### Olá, meu nome é Felipe! 👋
 
-### Em 2019, tive o primeiro contato com a programação através do VBA (Visual Basic for Applications) estruturando meus códigos iniciais aplicados nas planilhas do Microsoft Excel.
-<br>
+Em 2019, tive o primeiro contato com a programação através do VBA (Visual Basic for Applications) estruturando meus códigos iniciais aplicados nas planilhas do Microsoft Excel.
 
-### Algum tempo depois, decidi me aventurar no mundo da programação, estudando lógica com o bom e velho Portugol e, em seguida, avancei para Python.
+Algum tempo depois, decidi me aventurar no mundo da programação, estudando lógica com o bom e velho Portugol e, em seguida, avancei para Python.
 
-<br>
-
-### Hoje, me encontro estudando linguagens da web como JavaScript e PHP, focando na lógica e sintaxe, em outras palavras, a maneira como tudo funciona ao programarmos. Me aprofundei no framework Laravel e automações com Python.
-
-<br>
+Hoje, me encontro estudando linguagens da web como JavaScript e PHP, focando na lógica e sintaxe, em outras palavras, a maneira como tudo funciona ao programarmos. Me aprofundei no framework Laravel e automações com Python.
 
 ## Skills 🤹‍♀️
 ![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
