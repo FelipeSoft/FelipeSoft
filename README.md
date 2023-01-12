@@ -17,7 +17,5 @@ Hoje, me encontro estudando linguagens da web como JavaScript e PHP, focando na 
 ![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Blog](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<br>
-
 ## Github Stats
 ![FelipeSoft github stats](https://github-readme-stats.vercel.app/api?username=FelipeSoft&show_icons=true&theme=radical)
