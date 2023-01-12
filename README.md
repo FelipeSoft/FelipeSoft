@@ -4,7 +4,7 @@ Em 2019, tive o primeiro contato com a programação através do VBA (Visual Bas
 
 Algum tempo depois, decidi me aventurar no mundo da programação, estudando lógica com o bom e velho Portugol e, em seguida, avancei para Python.
 
-Hoje, me encontro estudando linguagens da web como JavaScript e PHP, focando na lógica e sintaxe, em outras palavras, a maneira como tudo funciona ao programarmos. Me aprofundei no framework Laravel e automações com Python.
+Hoje, me encontro estudando linguagens da web como JavaScript e PHP, focando na lógica e sintaxe, em outras palavras, a maneira como tudo funciona ao programarmos. Me aprofundei no framework Laravel e automações com Python. O curso fullstack da B7WEB me ajuda nessa caminhada!
 
 ## Skills 🤹‍♀️
 ![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
