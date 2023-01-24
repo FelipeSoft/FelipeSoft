@@ -17,7 +17,6 @@ Entre em contato comigo através do endereço de e-mail: felipedecastrolima2@gma
 ![Blog](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Blog](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## Github Stats
 ![FelipeSoft github stats](https://github-readme-stats.vercel.app/api?username=FelipeSoft&show_icons=true&theme=radical)
