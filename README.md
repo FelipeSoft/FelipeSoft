@@ -6,6 +6,8 @@ Algum tempo depois, decidi me aventurar um pouco mais nesse universo, estudando 
 
 Hoje, me encontro estudando linguagens da web como JavaScript e PHP, focando na lógica e sintaxe, em outras palavras, a maneira como tudo funciona ao programarmos. Me aprofundei no framework Laravel e automações com Python. O curso fullstack da B7WEB me ajuda nessa caminhada!
 
+Entre em contato comigo através do endereço de e-mail: felipedecastrolima2@gmail.com
+
 ## Skills 🤹‍♀️
 ![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
