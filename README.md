@@ -20,3 +20,7 @@ Entre em contato comigo através do endereço de e-mail: felipedecastrolima2@gma
 
 ## Github Stats
 ![FelipeSoft github stats](https://github-readme-stats.vercel.app/api?username=FelipeSoft&show_icons=true&theme=radical)
+
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
