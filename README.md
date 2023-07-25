@@ -22,7 +22,6 @@ Entre em contato comigo através do endereço de e-mail: felipedecastrolima2@gma
 ![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Blog](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Blog]()
 
 ## Github Stats
 ![FelipeSoft github stats](https://github-readme-stats.vercel.app/api?username=FelipeSoft&show_icons=true&theme=radical)
