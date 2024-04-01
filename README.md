@@ -4,7 +4,7 @@ Em 2019, tive o primeiro contato com a programação através do VBA (Visual Bas
 
 Algum tempo depois, decidi me aventurar um pouco mais nesse universo, estudando lógica com o bom e velho Portugol e, em seguida, avancei para Python.
 
-Hoje, me encontro estudando linguagens da web como JavaScript e PHP, focando na lógica e sintaxe, em outras palavras, a maneira como tudo funciona ao programarmos. Me aprofundei no framework Laravel e automações com Python. O curso fullstack da B7WEB me ajuda nessa caminhada!
+Hoje, me encontro desenvolvendo em linguagens como JavaScript, Typescript e Java. Me aprofundei no framework Nest.js e automações com Python. O curso fullstack da B7WEB me ajuda nessa caminhada!
 
 Entre em contato comigo através do endereço de e-mail: felipedecastrolima2@gmail.com
 
