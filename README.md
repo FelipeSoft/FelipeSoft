@@ -4,7 +4,7 @@ Em 2019, tive o primeiro contato com a programação através do VBA (Visual Bas
 
 Algum tempo depois, decidi me aventurar um pouco mais nesse universo, estudando lógica com o bom e velho Portugol e, em seguida, avancei para Python.
 
-Hoje, me encontro desenvolvendo em linguagens como JavaScript, Typescript e Java. Me aprofundei no framework Nest.js e automações com Python. O curso fullstack da B7WEB me ajuda nessa caminhada!
+Hoje, me encontro desenvolvendo em linguagens como Typescript, Java e Golang. Me aprofundei no framework Nest.js e automações com Golang. O curso fullstack da B7WEB me ajuda nessa caminhada!
 
 Entre em contato comigo através do endereço de e-mail: felipedecastrolima2@gmail.com
 
@@ -22,6 +22,7 @@ Entre em contato comigo através do endereço de e-mail: felipedecastrolima2@gma
 ![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Blog](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)>
 
 ## Github Stats
 ![FelipeSoft github stats](https://github-readme-stats.vercel.app/api?username=FelipeSoft&show_icons=true&theme=radical)
