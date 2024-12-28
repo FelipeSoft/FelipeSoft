@@ -4,7 +4,7 @@ Em 2019, tive o primeiro contato com a programação através do VBA (Visual Bas
 
 Algum tempo depois, decidi me aventurar um pouco mais nesse universo, estudando lógica com o bom e velho Portugol e, em seguida, avancei para Python.
 
-Hoje, me encontro desenvolvendo em linguagens como Typescript, Java e Golang. Me aprofundei no framework Nest.js e automações com Golang. O curso fullstack da B7WEB me ajuda nessa caminhada!
+Hoje, me encontro desenvolvendo em linguagens como Typescript, Java e Golang. Me aprofundei no framework Nest.js, construção de microsserviços e automações com Golang.
 
 Entre em contato comigo através do endereço de e-mail: felipedecastrolima2@gmail.com
 
