@@ -1,6 +1,6 @@
 ### Olá, meu nome é Felipe! 👋
 
-Em 2019, tive o primeiro contato com a programação através do VBA (Visual Basic for Applications) estruturando meus códigos iniciais aplicados nas planilhas do Microsoft Excel.
+Em 2018, tive o primeiro contato com a programação através do VBA (Visual Basic for Applications) estruturando meus códigos iniciais aplicados nas planilhas do Microsoft Excel.
 
 Algum tempo depois, decidi me aventurar um pouco mais nesse universo, estudando lógica com o bom e velho Portugol e, em seguida, avancei para Python.
 
