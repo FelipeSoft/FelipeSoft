@@ -10,8 +10,7 @@ Além disso, utilizo Golang para automações, serviços de alta performance e p
 
 Estou sempre em busca de evolução técnica, clareza arquitetural e soluções simples para problemas complexos.
 
-Contato:
-Email: felipedecastrolima2@gmail.com
+Caso queira trocar ideias, discutir tecnologia ou oportunidades profissionais, fique à vontade para entrar em contato comigo pelo e-mail: felipedecastrolima2@gmail.com
 
 ## Skills 🤹‍♀️
 ![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
