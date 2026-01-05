@@ -1,12 +1,17 @@
-### Olá, meu nome é Felipe! 👋
+Olá, eu sou o Felipe! 👋
 
-Em 2018, tive o primeiro contato com a programação através do VBA (Visual Basic for Applications) estruturando meus códigos iniciais aplicados nas planilhas do Microsoft Excel.
+Meu primeiro contato com programação aconteceu em 2018, quando comecei a automatizar processos no Microsoft Excel utilizando VBA (Visual Basic for Applications). Foi ali que desenvolvi minha base em lógica e resolução de problemas.
 
-Algum tempo depois, decidi me aventurar um pouco mais nesse universo, estudando lógica com o bom e velho Portugol e, em seguida, avancei para Python.
+Com o tempo, decidi me aprofundar no universo do desenvolvimento de software. Estudei lógica de programação com Portugol, avancei para Python e, a partir daí, migrei para o desenvolvimento backend moderno.
 
-Hoje, me encontro desenvolvendo em linguagens como Typescript, Java e Golang. Me aprofundei no framework Nest.js, construção de microsserviços e automações com Golang.
+Atualmente, atuo principalmente com TypeScript, Java e Golang, com forte foco em arquitetura backend, microsserviços e sistemas escaláveis.
+Tenho especialização prática em Nest.js, utilizando o framework para construir APIs robustas, bem estruturadas e alinhadas a boas práticas de arquitetura.
+Além disso, utilizo Golang para automações, serviços de alta performance e processamento concorrente, explorando ao máximo a eficiência da linguagem.
 
-Entre em contato comigo através do endereço de e-mail: felipedecastrolima2@gmail.com
+Estou sempre em busca de evolução técnica, clareza arquitetural e soluções simples para problemas complexos.
+
+Contato:
+Email: felipedecastrolima2@gmail.com
 
 ## Skills 🤹‍♀️
 ![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
