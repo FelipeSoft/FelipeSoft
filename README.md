@@ -2,9 +2,9 @@ Olá, eu sou o Felipe! 👋
 
 Meu primeiro contato com programação aconteceu em 2018, quando comecei a automatizar processos no Microsoft Excel utilizando VBA (Visual Basic for Applications). Foi ali que desenvolvi minha base em lógica e resolução de problemas.
 
-Com o tempo, decidi me aprofundar no universo do desenvolvimento de software. Estudei lógica de programação com Portugol, avancei para Python e, a partir daí, migrei para o desenvolvimento backend moderno.
+Com o tempo, decidi me aprofundar no universo do desenvolvimento de software. Estudei lógica de programação com Portugol, avancei para PHP e, a partir daí, migrei para o desenvolvimento backend moderno.
 
-Atualmente, atuo principalmente com TypeScript, Java e Golang, com forte foco em arquitetura backend, microsserviços e sistemas escaláveis.
+Atualmente, atuo principalmente com TypeScript e Golang, com forte foco em arquitetura backend, microsserviços e sistemas escaláveis.
 Tenho especialização prática em Nest.js, utilizando o framework para construir APIs robustas, bem estruturadas e alinhadas a boas práticas de arquitetura.
 Além disso, utilizo Golang para automações, serviços de alta performance e processamento concorrente, explorando ao máximo a eficiência da linguagem.
 
